@@ -11,7 +11,7 @@
 
 ## Visão Geral
 
-O Monitor de PDVs é uma ferramenta interna desenvolvida para a equipe de TI do Grupo Formosa. Permite visualizar em tempo real o estado de todos os terminais PDV da rede, identificando rapidamente quais estão operacionais, quais respondem apenas ao ping e quais estão completamente offline.
+O Monitor de PDVs é uma ferramenta interna desenvolvida para a equipe de TI do Grupo Formosa filial AM. Permite visualizar em tempo real o estado de todos os terminais PDV da rede, identificando rapidamente quais estão operacionais, quais respondem apenas ao ping e quais estão completamente offline.
 
 ---
 
